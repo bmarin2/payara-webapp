@@ -33,7 +33,7 @@ public class JsonFilter implements Filter {
         
         JSONObject json = new JSONObject();
         
-        json.put("name", "Michael");
+        json.put("name", "Michael-Development");
         json.put("age", "44");
         json.put("department", "Sales");
         
